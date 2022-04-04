@@ -1,7 +1,7 @@
 ## Hi there, I'm Raquel! 👋
 ## I'm a Developer, Millenial and Game of Thrones Nerd 
 - 💻 I work as a Javascript/Typescript developer
-- 📚 I'm currently learning deep javascript stuff, react and reading How To Become a Better Developer 🤓
+- 📚 I'm currently learning deep javascript stuff 🤓
 - ✨ 2022 Goals: Become master in NodeJS and read more tech books
 - 👾 I'm millionaire and specialist in Animal Crossing and The Sims, email me for tips 🧐
 
